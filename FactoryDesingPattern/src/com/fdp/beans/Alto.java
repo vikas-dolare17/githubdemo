@@ -22,5 +22,9 @@ public class Alto implements Car{
 		return "Car Stairing : Non-Power Stairing";
 	}
 	
+	public void getAltoInfo(){
+		System.out.println("nnnnnn.........!");
+		System.out.println("nnnnnn.........!");
+	}
 
 }
